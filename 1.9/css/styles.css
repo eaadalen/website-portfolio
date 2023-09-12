@@ -7,9 +7,9 @@
     --dark-turquoise: #357b70;
     --white: #fff;
     --black: rgba(0, 0, 0, 0.3);
-    --small-height: 2;
-    --medium-height: 5;
-    --medium-weight: 400;
+    --small-height: 1;
+    --medium-height: 2;
+    --medium-weight: 100;
     --large-font: large;
     --lato-font: 'Lato', sans-serif;
   }
@@ -23,7 +23,7 @@ h1 {
 font-family: var(--lato-font);
 font-weight: var(--medium-weight);
 font-size: var(--large-font);
-line-height: var(--medium-height);
+line-height: var(--small-height);
 }
 
 ul {
@@ -41,7 +41,7 @@ li {
 
 table {
     font-family: var(--lato-font);
-    font-weight: 200;
+    font-weight: 100;
     font-size: var(--large-font);
     line-height: var(--small-height);;
 }

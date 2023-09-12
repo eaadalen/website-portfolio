@@ -11,29 +11,29 @@ body {
 
 h1 {
 font-family: 'Lato', sans-serif;
-font-weight: 400;
+font-weight: 100;
 font-size: large;
-line-height: 5;
+line-height: 1;
 }
 
 ul {
-    font-weight: 400;
+    font-weight: 100;
     font-size: large;
-    line-height: 2;
+    line-height: 1;
 }
 
 li {
     font-family: 'Lato', sans-serif;
     font-weight: 100;
     font-size: large;
-    line-height: 2;;
+    line-height: 1;;
 }
 
 table {
     font-family: 'Lato', sans-serif;
-    font-weight: 200;
+    font-weight: 100;
     font-size: large;
-    line-height: 2;;
+    line-height: 1;;
 }
 
 a {
